@@ -1,2 +1,2 @@
 # CSTR_Series_Reactor_Simulation
-CSTR_Series_Reactor_Simulation developed by Manuel Portero
+Reactor Designing solution developed with PowerApps, PowerAutomate and AzureFunction (Python functionApp). Documentation available in this repository.
